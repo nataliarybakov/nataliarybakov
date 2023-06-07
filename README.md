@@ -1,16 +1,20 @@
-### Hi there 👋
+# About Me
 
-<!--
-**nataliarybakov/nataliarybakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Natalia, a passionate Front-End Developer based in Sydney, Australia.
 
-Here are some ideas to get you started:
+## Technology Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in the following technology stack:
+
+- HTML/CSS: Crafting beautiful and responsive web interfaces.
+- JavaScript: Bringing interactivity and dynamic functionality to websites.
+- React: Building modern and scalable web applications.
+
+## Contact Information
+
+Feel free to reach out to me through the following channels:
+
+- Email: [rybakovnatalia@gmail.com](mailto:rybakovnatalia@gmail.com)
+- Telegram: [@natasha_rybakov](https://t.me/natasha_rybakov)
+
+Let's connect and collaborate on exciting web development projects!
